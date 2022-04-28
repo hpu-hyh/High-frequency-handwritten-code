@@ -9,3 +9,5 @@
 ## 2. 如何实现一个简单的 Promise
 
 ## 3.JS中如何·实现bind
+
+## 4.如何实现 promise.map，限制 promise 并发数

@@ -11,3 +11,5 @@
 ## 3.JS中如何·实现bind
 
 ## 4.如何实现 promise.map，限制 promise 并发数
+
+## 5.如何实现类似 lodash.get 函数

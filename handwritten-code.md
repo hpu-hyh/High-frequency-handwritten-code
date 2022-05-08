@@ -13,3 +13,5 @@
 ## 4.如何实现 promise.map，限制 promise 并发数
 
 ## 5.如何实现类似 lodash.get 函数
+
+## 6.如何实现一个深拷贝 (cloneDeep)

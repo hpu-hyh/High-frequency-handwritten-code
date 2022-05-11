@@ -72,6 +72,14 @@ i//nput 框实时搜索并发送请求展示下拉列表，每隔一秒发送一
 
 ###### 3.JS中如何实现bind
 
+```js
+Function.prototype.fakeBind = function (obj, ...args) {
+  return (...rest) => this.call(obj, ...args, ...rest);
+};
+```
+
+
+
 ###### 4.如何实现 promise.map，限制 promise 并发数
 
 ###### 5.如何实现类似 lodash.get 函数
